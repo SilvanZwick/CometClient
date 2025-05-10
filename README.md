@@ -1,19 +1,21 @@
 <div align="center">
 
-### The **MOST POPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by @penguinify)
+## CometClient
 
-#### give a star, this project took a while <3 ⭐️✨
+### A fork of Car Axle Client, *infdev*. Proxies, games, and exploits in a clean ui. ([Car Axle Client](https://github.com/car-axle-client/car-axle-client) by @penguinify)
+
+#### give a star, this project took a while :3
 
 <img src="docs/caraxle.png" alt="drawing" width="300"/><br>
-<a href="https://zenozytx.github.io/car-axle-clientX/">Install the latest version</a>
+<!-- <a href="https://zenozytx.github.io/car-axle-clientX/">Install the latest version</a> -->
 
 <hr>
 <p align="center">
   <a href="#features">Features</a>
   -
-  <a href="#screenshots">Screenshots</a>
+  <a href="#screenshots">Screenshots</a><!--
   -
-  <a href="https://zenozytx.github.io/car-axle-clientX/">Install</a>
+  <a href="https://zenozytx.github.io/car-axle-clientX/">Install</a>-->
   -
   <a href="https://github.com/car-axle-client/car-axle-client/graphs/contributors">Contributions</a>
   -
@@ -21,7 +23,9 @@
 </p>
 <hr>
 
-![Static Badge](https://img.shields.io/badge/certified-trash-734422?style=plastic) ![Dynamic Badge](https://tokei.rs/b1/github/car-axle-client/car-axle-client) ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/car-axle-client/car-axle-client/webpack.yml?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/car-axle-client/car-axle-client/main?style=plastic)
+<a href="https://silvanzwick.com/"<img src="https://img.shields.io/badge/my-website-00ffff?style=for-the-badge&label-color=%23123456&color=%23ABCDEF" /><</a>
+
+![Dynamic Badge](https://tokei.rs/b1/github/car-axle-client/car-axle-client) ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/car-axle-client/car-axle-client/webpack.yml?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/car-axle-client/car-axle-client/main?style=plastic)
 
 </div>
 
