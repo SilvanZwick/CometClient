@@ -2,7 +2,10 @@
 
 ## CometClient
 
-### A fork of Car Axle Client, *infdev*. Proxies, games, and exploits in a clean ui. ([Car Axle Client](https://github.com/car-axle-client/car-axle-client) by @penguinify)
+### A fork of Car Axle Client, *infdev*. Proxies, games, exploits, and Bydia\* in a clean ui.
+\*Bydia is an *early pre-release infdev* for a bookmarklet version of **[Cydia](https://en.wikipedia.org/wiki/Cydia)**.
+<br>
+([Car Axle Client](https://github.com/car-axle-client/car-axle-client) by @penguinify)
 
 #### give a star, this project took a while :3
 
